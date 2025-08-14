@@ -15,5 +15,5 @@ Data Analyst with a passion for turning messy datasets into clear stories and ac
 **Visualization:** Tableau
 
 ## 👋 Connect with Me
-- [Portfolio](https://piquant-seaplane-4ab.notion.site/Hey-there-I-am-Jess-24d77f566a39808bac1dddb8038e7021)  
+- [Portfolio](https://jxdata.notion.site/Hey-there-I-m-Jess-24d77f566a39808bac1dddb8038e7021?pvs=74)  
 - [LinkedIn](https://linkedin.com/in/jess-stubbs)
